@@ -1,0 +1,4 @@
+django
+react
+djangorestframework
+python-decouple
